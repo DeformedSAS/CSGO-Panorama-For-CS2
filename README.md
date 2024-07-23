@@ -24,3 +24,8 @@
 ## Loading Screen
 
 - Re-Designed. Temporary
+
+
+## HUD
+
+- Added CS:GO alerts
