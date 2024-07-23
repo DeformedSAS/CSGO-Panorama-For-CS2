@@ -15,3 +15,12 @@
 
 - Fixed tooltips
 - Added in-game buttons
+- Removed dot pattern
+
+# End Of Match
+
+- Re-Designed all panels
+
+# Loading Screen
+
+- Re-Designed. Temporary
