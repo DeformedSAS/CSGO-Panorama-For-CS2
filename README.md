@@ -28,4 +28,4 @@
 
 ## HUD
 
-- Added CS:GO alerts
+- Added CS:GO-like HUD
