@@ -23,7 +23,7 @@
 
 ## Loading Screen
 
-- Re-Designed. Temporary
+- Added CS:GO Loading screen
 
 
 ## HUD
